@@ -1,0 +1,6 @@
+name: LangAPI
+main: org.cyberpwn.langapi.LangPlugin
+version: 1.0
+commands:
+  language:
+    aliases: [lang, locale]
